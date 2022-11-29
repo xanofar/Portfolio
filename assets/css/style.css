@@ -1,0 +1,13 @@
+.test {
+width: 200px;
+height: 200px;
+background-color: rgb(25, 81, 119);
+margin: 10px 21px 17px 19px;
+border: 16px solid black;
+}
+.parent {
+    display: flex;
+}
+header {
+    display: flex;
+}
