@@ -33,4 +33,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
+
 ![image](https://user-images.githubusercontent.com/73376530/205898304-03073641-f953-4ffd-ba64-444879189948.png)
